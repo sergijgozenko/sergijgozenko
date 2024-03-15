@@ -1,4 +1,5 @@
-### sergiygoz
+### - **Discord**: [sergiygoz](https://discord.com/users/sergiygoz)
+
 
 <!--
 **sergijgozenko/sergijgozenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
